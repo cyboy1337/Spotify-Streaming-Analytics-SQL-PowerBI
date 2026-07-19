@@ -19,21 +19,21 @@ This project demonstrates an end-to-end **Business Intelligence** workflow where
 
 Throughout this project, I used several SQL concepts to perform business analysis, including:
 
-Month-over-Month (MoM) Growth Analysis
-Common Table Expressions (CTEs)
-JOIN Operations
-Window Functions
-Ranking Functions (DENSE_RANK)
-Top N Analysis
-LAG Function
-Percentage Calculations
-GROUP BY
-Aggregate Functions
-CASE Statements
-Date Functions
-SQL Views
-Data Aggregation
-Relational Database Analysis
+- Month-over-Month (MoM) Growth Analysis
+- Common Table Expressions (CTEs)
+- JOIN Operations
+- Window Functions
+- Ranking Functions (DENSE_RANK)
+- Top N Analysis
+- LAG Function
+- Percentage Calculations
+- GROUP BY
+- Aggregate Functions
+- CASE Statements
+- Date Functions
+- SQL Views
+- Data Aggregation
+- Relational Database Analysis
 
 Most of the business logic has been implemented using SQL before connecting the data to Power BI.
 
