@@ -3,7 +3,7 @@ End-to-end Spotify Streaming Analytics project showcasing SQL analysis, SQL View
 
 **Portfolio Project 2 - SQL & Power BI - Spotify Streaming Analytics**
 
-In this end-to-end **Business Intelligence** project, I imported a multi-table Spotify streaming dataset into **MySQL**, performed business analysis using SQL, created reusable SQL Views for **KPIs and analytical reporting**, and visualized the results in an interactive Power BI dashboard. The objective of this project is to demonstrate how SQL can be used to transform raw streaming data into meaningful business insights while leveraging Power BI as a visualization and reporting tool.
+In this end-to-end **Business Intelligence** project, I imported a multi-table Spotify streaming dataset into **MySQL**, performed business analysis using SQL, created reusable SQL Views for **KPIs and analytical reporting**, and visualized the results in an **interactive Power BI dashboard**. The objective of this project is to demonstrate how SQL can be used to transform raw streaming data into meaningful business insights while leveraging Power BI as a visualization and reporting tool.
 
 # Project Guide
 
@@ -11,7 +11,7 @@ The project consists of three related CSV datasets containing Users, Tracks, and
 
 Rather than performing calculations inside Power BI, I implemented the complete business logic using SQL by creating separate **SQL Views** for each **KPI, trend, and analytical requirement**. These SQL Views serve as the data source for the dashboard, resulting in a scalable, efficient, and well-structured reporting layer.
 
-After completing the SQL analysis, I connected the MySQL database directly to **Power BI** and imported all SQL Views. Inside Power BI, I designed an interactive dashboard using **KPI cards, bar charts, line charts, donut charts, tables, slicers, and cross-filtering** to present the SQL-generated insights in a visually appealing and business-friendly format.
+After completing the SQL analysis, I connected the MySQL database directly to **Power BI** and imported all SQL Views. Inside Power BI, I designed an **interactive dashboard** using **KPI cards, bar charts, line charts, donut charts, tables, slicers, and cross-filtering** to present the SQL-generated insights in a visually appealing and business-friendly format.
 
 This project demonstrates an end-to-end **Business Intelligence** workflow where MySQL is used for data transformation and business analysis, while Power BI is used exclusively for **dashboard** development and **interactive data visualization**.
 
